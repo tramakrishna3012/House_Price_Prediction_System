@@ -1,8 +1,8 @@
 # Data Driven House Price Prediction and Property Recommendation App
 
-- [LinkedIn - Rayyan Ahmed](https://www.linkedin.com/in/rayyan-ahmed9477/)
+- [LinkedIn - T Rama Krishna]([https://www.linkedin.com/in/t-rama-krishna/])
   
-- [Github - Rayyan Ahmed](https://github.com/Rayyan9477/)
+- [Github - T Rama Krishna](https://github.com/tramakrishna3012/)
 
 ## About The Project
 
@@ -217,6 +217,6 @@ To run this project locally, please follow these steps:-
 
 ## Contact
 
-T Rama Krishna [tramakrishn3012@gmail.com](mailto:tramakrishn3012@gmail.com)  Rayyan(https://www.linkedin.com/in/t-rama-krishna/)
+T Rama Krishna [tramakrishn3012@gmail.com](mailto:tramakrishn3012@gmail.com)  T Rama Krishna(https://www.linkedin.com/in/t-rama-krishna/)
 
 
