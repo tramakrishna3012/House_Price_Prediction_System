@@ -1,6 +1,6 @@
 # Data Driven House Price Prediction and Property Recommendation App
 
-- [LinkedIn - T Rama Krishna]([https://www.linkedin.com/in/t-rama-krishna/])
+- [LinkedIn - T Rama Krishna](https://www.linkedin.com/in/t-rama-krishna/)
   
 - [Github - T Rama Krishna](https://github.com/tramakrishna3012/)
 
